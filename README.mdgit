@@ -1,0 +1,1 @@
+"# tets"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/timothykimathi13/tets.gitgit push -u origin main
